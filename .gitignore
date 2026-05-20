@@ -1,0 +1,16 @@
+frontend/node_modules/
+frontend/package-lock.json
+frontend/build/
+
+backend/env/
+backend/.env
+backend/evidence_storage/
+backend/*.db
+backend/*.db-*
+logs/
+/backend/celerybeat*
+backend/*.log
+
+
+*.log
+__pycache__/
